@@ -1,2 +1,3 @@
 #!/bin/bash
-#addition funtion	
+#addition funtion
+#a = b+c 	
